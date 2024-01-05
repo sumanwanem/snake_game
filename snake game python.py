@@ -3,7 +3,6 @@ from food import Food
 from scoreboard import ScoreBoard
 from snake import Snake
 import time 
-import random
 
 FONT = ("Arial", 13, "normal")
 
